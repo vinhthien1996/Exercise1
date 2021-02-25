@@ -31,6 +31,7 @@ public class Main {
 				// FIND STUDENT
 				case 3: {
 					menu.menuFind();
+					break;
 				}
 				
 				
